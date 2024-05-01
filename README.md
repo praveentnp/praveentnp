@@ -2,7 +2,7 @@
 - 👀 I’m interested in Learning
 - 🌱 I’m currently learning Github
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me pknatrajan@gmail.com
+- 📫 How to reach me praveenkumar.css@gmail.com
 
 <!---
 praveentnp/praveentnp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
